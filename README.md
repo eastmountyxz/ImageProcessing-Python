@@ -22,7 +22,7 @@
 [[Python图像处理] 十四.基于OpenCV和像素处理的图像灰度化处理](https://blog.csdn.net/Eastmount/article/details/88785768)  <br />
 [[Python图像处理] 十五.图像的灰度线性变换](https://blog.csdn.net/Eastmount/article/details/88858696)  <br />
 [[Python图像处理] 十六.图像的灰度非线性变换之对数变换、伽马变换](https://blog.csdn.net/Eastmount/article/details/88929290)  <br />
-[[Python图像处理] 十七.图像锐化与边缘检测之Roberts算子、Prewitt算子、Sobel算子和Laplacian算子] (https://blog.csdn.net/Eastmount/article/details/89001702)  <br />
+[[Python图像处理] 十七.图像锐化与边缘检测之Roberts算子、Prewitt算子、Sobel算子和Laplacian算子](https://blog.csdn.net/Eastmount/article/details/89001702)  <br />
 [[Python图像处理] 十八.图像锐化与边缘检测之Scharr算子、Canny算子和LOG算子](https://blog.csdn.net/Eastmount/article/details/89056240)  <br />
 [[Python图像处理] 十九.图像分割之基于K-Means聚类的区域分割](https://blog.csdn.net/Eastmount/article/details/89218513)  <br />
 [[Python图像处理] 二十.图像量化处理和采样处理及局部马赛克特效](https://blog.csdn.net/Eastmount/article/details/89287543)  <br />
