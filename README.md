@@ -37,6 +37,10 @@
 
 原博客参考地址：[https://blog.csdn.net/eastmount/article/category/9278090](https://blog.csdn.net/eastmount/article/category/9278090)
 
+
+后续会尝试结合深度学习进行更深入的研究。
+
+
 CSDN Eastmount 杨秀璋
 2019-10-17
 
