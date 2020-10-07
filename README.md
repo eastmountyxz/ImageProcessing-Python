@@ -31,6 +31,7 @@
 [[Python图像处理] 二十三.傅里叶变换之高通滤波和低通滤波](https://blog.csdn.net/Eastmount/article/details/89645301)  <br />
 [[Python图像处理] 二十四.图像特效处理之毛玻璃、浮雕和油漆特效](https://blog.csdn.net/Eastmount/article/details/89853630)  <br />
 [[Python图像处理] 二十五.图像特效处理之素描、怀旧、光照、流年以及滤镜特效](https://blog.csdn.net/Eastmount/article/details/99566969)  <br />
+[[Python图像处理] 二十七.OpenGL入门及绘制基本图形（一）](https://blog.csdn.net/Eastmount/article/details/104267905)  <br />
 [[Python图像处理] 二十八.OpenCV快速实现人脸检测及视频中的人脸](https://blog.csdn.net/Eastmount/article/details/104463173) <br />
 [[Python图像处理] 二十九.MoviePy视频编辑库实现抖音短视频剪切合并操作](https://blog.csdn.net/eastmount/article/details/108929561) <br />
 
