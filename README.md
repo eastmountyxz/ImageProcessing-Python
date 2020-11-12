@@ -35,6 +35,7 @@
 [[Python图像处理] 二十七.OpenGL入门及绘制基本图形（一）](https://blog.csdn.net/Eastmount/article/details/104267905)  <br />
 [[Python图像处理] 二十八.OpenCV快速实现人脸检测及视频中的人脸](https://blog.csdn.net/Eastmount/article/details/104463173) <br />
 [[Python图像处理] 二十九.MoviePy视频编辑库实现抖音短视频剪切合并操作](https://blog.csdn.net/eastmount/article/details/108929561) <br />
+[[Python图像处理] 三十.图像量化及采样处理万字详细总结（推荐）](https://blog.csdn.net/Eastmount/article/details/109605161) <br />
 
 希望文章对您有所帮助，如果有不足之处，还请海涵~
 
