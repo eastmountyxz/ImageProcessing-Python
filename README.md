@@ -38,6 +38,9 @@
 [[Python图像处理] 三十.图像量化及采样处理万字详细总结（推荐）](https://blog.csdn.net/Eastmount/article/details/109605161) <br />
 [[Python图像处理] 三十一.图像点运算处理两万字详细总结（灰度化处理、阈值化处理）](https://blog.csdn.net/Eastmount/article/details/109649659) <br />
 [[Python图像处理] 三十二.傅里叶变换（图像去噪）与霍夫变换（特征识别）万字详细总结](https://blog.csdn.net/Eastmount/article/details/110487868) <br />
+[[Python图像处理] 三十三.图像各种特效处理及原理万字详解（毛玻璃、浮雕、素描、怀旧、流年、滤镜等）](https://blog.csdn.net/Eastmount/article/details/111568397) <br />
+
+
 
 
 希望文章对您有所帮助，如果有不足之处，还请海涵~
