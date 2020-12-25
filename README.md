@@ -37,6 +37,8 @@
 [[Python图像处理] 二十九.MoviePy视频编辑库实现抖音短视频剪切合并操作](https://blog.csdn.net/eastmount/article/details/108929561) <br />
 [[Python图像处理] 三十.图像量化及采样处理万字详细总结（推荐）](https://blog.csdn.net/Eastmount/article/details/109605161) <br />
 [[Python图像处理] 三十一.图像点运算处理两万字详细总结（灰度化处理、阈值化处理）](https://blog.csdn.net/Eastmount/article/details/109649659) <br />
+[[Python图像处理] 三十二.傅里叶变换（图像去噪）与霍夫变换（特征识别）万字详细总结](https://blog.csdn.net/Eastmount/article/details/110487868) <br />
+
 
 希望文章对您有所帮助，如果有不足之处，还请海涵~
 
