@@ -40,7 +40,8 @@
 [[Python图像处理] 三十二.傅里叶变换（图像去噪）与霍夫变换（特征识别）万字详细总结](https://blog.csdn.net/Eastmount/article/details/110487868) <br />
 [[Python图像处理] 三十三.图像各种特效处理及原理万字详解（毛玻璃、浮雕、素描、怀旧、流年、滤镜等）](https://blog.csdn.net/Eastmount/article/details/111568397) <br />
 [[Python图像处理] 三十四.数字图像处理基础与几何图形绘制万字详解（推荐）](https://blog.csdn.net/Eastmount/article/details/112547228) <br />
-[[Python图像处理] 三十五.OpenCV图像处理入门、算数逻辑运算与图像融合（推荐）](https://blog.csdn.net/Eastmount/article/details/113192978)
+[[Python图像处理] 三十五.OpenCV图像处理入门、算数逻辑运算与图像融合（推荐）](https://blog.csdn.net/Eastmount/article/details/113192978) <br />
+[[Python图像处理] 三十六.OpenCV图像几何变换万字详解（平移缩放旋转、镜像仿射透视）](https://blog.csdn.net/Eastmount/article/details/113529948) <br />
 
 
 希望文章对您有所帮助，如果有不足之处，还请海涵~
