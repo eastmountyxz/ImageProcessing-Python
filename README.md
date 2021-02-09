@@ -42,6 +42,7 @@
 [[Python图像处理] 三十四.数字图像处理基础与几何图形绘制万字详解（推荐）](https://blog.csdn.net/Eastmount/article/details/112547228) <br />
 [[Python图像处理] 三十五.OpenCV图像处理入门、算数逻辑运算与图像融合（推荐）](https://blog.csdn.net/Eastmount/article/details/113192978) <br />
 [[Python图像处理] 三十六.OpenCV图像几何变换万字详解（平移缩放旋转、镜像仿射透视）](https://blog.csdn.net/Eastmount/article/details/113529948) <br />
+[[Python图像处理] 三十七.OpenCV直方图统计两万字详解（掩膜直方图、灰度直方图对比、黑夜白天预测）](https://blog.csdn.net/Eastmount/article/details/113700710) <br />
 
 
 希望文章对您有所帮助，如果有不足之处，还请海涵~
