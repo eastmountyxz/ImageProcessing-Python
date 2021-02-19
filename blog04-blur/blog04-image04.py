@@ -13,7 +13,7 @@ result = cv2.boxFilter(source, -1, (5,5), normalize=0)
 #显示图形
 titles = ['Source Image', 'BoxFilter Image']  
 images = [source, result]  
-for i in xrange(2):  
+for i in range(2):  
    plt.subplot(1,2,i+1), plt.imshow(images[i], 'gray')  
    plt.title(titles[i])  
    plt.xticks([]),plt.yticks([])  
