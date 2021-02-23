@@ -52,9 +52,10 @@
 
 后续会尝试结合深度学习进行更深入的研究。
 
+[[图像处理] Python+OpenCV实现车牌区域识别及Sobel算子](https://blog.csdn.net/Eastmount/article/details/81461679)
 
 CSDN Eastmount 杨秀璋
-2021-01-16
+2021-02-23
 
 
 ---
