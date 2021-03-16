@@ -7,7 +7,7 @@ src = cv2.imread('scenery.png')
 
 #图像缩放
 result = cv2.resize(src, (200,100))
-print result.shape
+print(result.shape)
 
 #显示图像
 cv2.imshow("src", src)
