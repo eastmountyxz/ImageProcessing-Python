@@ -5,7 +5,7 @@ import numpy as np
 #读取图片
 src = cv2.imread('scenery.png')
 rows, cols = src.shape[:2]
-print rows, cols
+print(rows, cols)
 
 #图像缩放 dsize(列,行)
 result = cv2.resize(src, (int(cols*0.6), int(rows*1.2)))
