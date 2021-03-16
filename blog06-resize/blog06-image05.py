@@ -16,7 +16,7 @@ img3 = cv2.flip(src, -1)
 #显示图形
 titles = ['Source', 'Image1', 'Image2', 'Image3']  
 images = [src, img1, img2, img3]  
-for i in xrange(4):  
+for i in range(4):  
    plt.subplot(2,2,i+1), plt.imshow(images[i], 'gray')  
    plt.title(titles[i])  
    plt.xticks([]),plt.yticks([])  
