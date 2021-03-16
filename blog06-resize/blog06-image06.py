@@ -23,7 +23,7 @@ img4 = cv2.warpAffine(image, M, (image.shape[1], image.shape[0]))
 #显示图形
 titles = [ 'Image1', 'Image2', 'Image3', 'Image4']  
 images = [img1, img2, img3, img4]  
-for i in xrange(4):  
+for i in range(4):  
    plt.subplot(2,2,i+1), plt.imshow(images[i], 'gray')  
    plt.title(titles[i])  
    plt.xticks([]),plt.yticks([])  
