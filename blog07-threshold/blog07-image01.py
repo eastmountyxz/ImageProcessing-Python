@@ -10,7 +10,7 @@ GrayImage = cv2.cvtColor(src,cv2.COLOR_BGR2GRAY)
 
 #二进制阈值化处理
 r, b = cv2.threshold(GrayImage, 127, 255, cv2.THRESH_BINARY)
-print r
+print(r)
 
 #显示图像
 cv2.imshow("src", src)
