@@ -18,7 +18,7 @@ ret,thresh5=cv2.threshold(GrayImage,127,255,cv2.THRESH_TOZERO_INV)
 #显示结果
 titles = ['Gray Image','BINARY','BINARY_INV','TRUNC','TOZERO','TOZERO_INV']  
 images = [GrayImage, thresh1, thresh2, thresh3, thresh4, thresh5]  
-for i in xrange(6):  
+for i in range(6):  
    plt.subplot(2,3,i+1),plt.imshow(images[i],'gray')  
    plt.title(titles[i])  
    plt.xticks([]),plt.yticks([])  
