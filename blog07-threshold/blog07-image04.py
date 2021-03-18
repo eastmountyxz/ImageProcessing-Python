@@ -10,7 +10,7 @@ GrayImage = cv2.cvtColor(src,cv2.COLOR_BGR2GRAY)
 
 #反阈值化为0处理
 r, b = cv2.threshold(GrayImage, 127, 255, cv2.THRESH_TOZERO_INV)
-print r
+print(r)
 
 #显示图像
 cv2.imshow("src", src)
