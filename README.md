@@ -46,6 +46,7 @@
 [[Python图像处理] 三十八.OpenCV图像增强和图像去雾万字详解（直方图均衡化、局部直方图均衡化、自动色彩均衡化）](https://blog.csdn.net/Eastmount/article/details/114706950) <br />
 [[Python图像处理] 三十九.Python图像分类万字详解（贝叶斯图像分类、KNN图像分类、DNN图像分类）](https://blog.csdn.net/Eastmount/article/details/115382688) <br />
 [[Python图像处理] 四十.全网首发Python图像分割万字详解（阈值分割、边缘分割、纹理分割、分水岭算法、K-Means分割、漫水填充分割、区域定位）](https://blog.csdn.net/Eastmount/article/details/116952580) <br />
+[[Python图像处理] 四十一.Python图像平滑万字详解（均值滤波、方框滤波、高斯滤波、中值滤波、双边滤波）](https://blog.csdn.net/Eastmount/article/details/117665503) <br />
 
 
 希望文章对您有所帮助，如果有不足之处，还请海涵~
