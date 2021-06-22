@@ -4,6 +4,10 @@
 
 该资源为作者在CSDN的撰写Python图像处理文章的支撑，主要是Python实现图像处理、图像识别、图像分类等算法代码实现。该系列文章是讲解Python OpenCV图像处理知识，前期主要讲解图像入门、OpenCV基础用法，中期讲解图像处理的各种算法，包括图像锐化算子、图像增强技术、图像分割等，后期结合深度学习研究图像识别、图像分类应用。希望该资源对您有所帮助，一起加油！
 
+强烈推荐另一个资源，这是作者归纳的一本著作《Python中的图像处理》，非常系统，希望对您有所帮助，记得点赞喔，感谢。
+- https://github.com/eastmountyxz/Book3-Python-ImageProcessing
+
+
 前文参考：
 
 [[Python图像处理] 一.图像处理基础知识及OpenCV入门函数](https://blog.csdn.net/Eastmount/article/details/81748802) <br />
