@@ -51,7 +51,7 @@
 [[Python图像处理] 三十九.Python图像分类万字详解（贝叶斯图像分类、KNN图像分类、DNN图像分类）](https://blog.csdn.net/Eastmount/article/details/115382688) <br />
 [[Python图像处理] 四十.全网首发Python图像分割万字详解（阈值分割、边缘分割、纹理分割、分水岭算法、K-Means分割、漫水填充分割、区域定位）](https://blog.csdn.net/Eastmount/article/details/116952580) <br />
 [[Python图像处理] 四十一.Python图像平滑万字详解（均值滤波、方框滤波、高斯滤波、中值滤波、双边滤波）](https://blog.csdn.net/Eastmount/article/details/117665503) <br />
-
+[[Python图像处理] 四十二.Python图像锐化及边缘检测万字详解（Roberts、Prewitt、Sobel、Laplacian、Canny、LOG）](https://blog.csdn.net/Eastmount/article/details/118897338) <br />
 [[Python图像处理] 四十三.Python图像形态学处理万字详解（腐蚀膨胀、开闭运算、梯度顶帽黑帽运算）](https://blog.csdn.net/Eastmount/article/details/119257935) <br />
 
 
