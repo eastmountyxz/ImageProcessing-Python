@@ -52,6 +52,9 @@
 [[Python图像处理] 四十.全网首发Python图像分割万字详解（阈值分割、边缘分割、纹理分割、分水岭算法、K-Means分割、漫水填充分割、区域定位）](https://blog.csdn.net/Eastmount/article/details/116952580) <br />
 [[Python图像处理] 四十一.Python图像平滑万字详解（均值滤波、方框滤波、高斯滤波、中值滤波、双边滤波）](https://blog.csdn.net/Eastmount/article/details/117665503) <br />
 
+[[Python图像处理] 四十三.Python图像形态学处理万字详解（腐蚀膨胀、开闭运算、梯度顶帽黑帽运算）](https://blog.csdn.net/Eastmount/article/details/119257935) <br />
+
+
 
 希望文章对您有所帮助，如果有不足之处，还请海涵~
 
