@@ -8,7 +8,7 @@
 - https://github.com/eastmountyxz/Book3-Python-ImageProcessing
 
 
-前文参考：
+**图像处理：**
 
 [[Python图像处理] 一.图像处理基础知识及OpenCV入门函数](https://blog.csdn.net/Eastmount/article/details/81748802) <br />
 [[Python图像处理] 二.OpenCV+Numpy库读取与修改像素](https://blog.csdn.net/eastmount/article/details/82120114)  <br />
@@ -53,7 +53,11 @@
 [[Python图像处理] 四十一.Python图像平滑万字详解（均值滤波、方框滤波、高斯滤波、中值滤波、双边滤波）](https://blog.csdn.net/Eastmount/article/details/117665503) <br />
 [[Python图像处理] 四十二.Python图像锐化及边缘检测万字详解（Roberts、Prewitt、Sobel、Laplacian、Canny、LOG）](https://blog.csdn.net/Eastmount/article/details/118897338) <br />
 [[Python图像处理] 四十三.Python图像形态学处理万字详解（腐蚀膨胀、开闭运算、梯度顶帽黑帽运算）](https://blog.csdn.net/Eastmount/article/details/119257935) <br />
-[[Python图像识别] 四十五.目标检测入门普及和ImageAI“傻瓜式”对象检测案例详解 (1)](https://blog.csdn.net/Eastmount/article/details/119107913) <br />
+
+**图像识别：**
+
+[[Python图像识别] 四十五.目标检测入门普及和ImageAI“傻瓜式”对象检测案例详解](https://blog.csdn.net/Eastmount/article/details/119107913) <br />
+[[Python图像识别] 四十七.Keras深度学习构建CNN识别阿拉伯手写文字图像](https://blog.csdn.net/Eastmount/article/details/120593269) <br />
 
 
 
