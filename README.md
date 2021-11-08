@@ -53,6 +53,7 @@
 [[Python图像处理] 四十一.Python图像平滑万字详解（均值滤波、方框滤波、高斯滤波、中值滤波、双边滤波）](https://blog.csdn.net/Eastmount/article/details/117665503) <br />
 [[Python图像处理] 四十二.Python图像锐化及边缘检测万字详解（Roberts、Prewitt、Sobel、Laplacian、Canny、LOG）](https://blog.csdn.net/Eastmount/article/details/118897338) <br />
 [[Python图像处理] 四十三.Python图像形态学处理万字详解（腐蚀膨胀、开闭运算、梯度顶帽黑帽运算）](https://blog.csdn.net/Eastmount/article/details/119257935) <br />
+[万字长文告诉新手如何学习Python图像处理（上篇完结 四十四）](https://blog.csdn.net/Eastmount/article/details/119324956) <br />
 
 **图像识别：**
 
