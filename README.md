@@ -57,6 +57,7 @@
 **图像识别：**
 
 [[Python图像识别] 四十五.目标检测入门普及和ImageAI“傻瓜式”对象检测案例详解](https://blog.csdn.net/Eastmount/article/details/119107913) <br />
+[[Python图像识别] 四十六.图像预处理之图像去雾详解（ACE算法和暗通道先验去雾算法）](https://blog.csdn.net/Eastmount/article/details/120239889)  <br />
 [[Python图像识别] 四十七.Keras深度学习构建CNN识别阿拉伯手写文字图像](https://blog.csdn.net/Eastmount/article/details/120593269) <br />
 
 
