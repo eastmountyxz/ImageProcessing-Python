@@ -8,6 +8,12 @@
 - https://github.com/eastmountyxz/Book3-Python-ImageProcessing
 
 
+
+华为云《从零到壹•Python图像处理及识别》电子书开源：
+- https://bbs.huaweicloud.com/blogs/336932
+
+
+
 **图像处理：**
 
 [[Python图像处理] 一.图像处理基础知识及OpenCV入门函数](https://blog.csdn.net/Eastmount/article/details/81748802) <br />
