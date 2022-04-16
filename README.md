@@ -11,6 +11,7 @@
 
 华为云《从零到壹•Python图像处理及识别》电子书开源：
 - https://bbs.huaweicloud.com/blogs/336932
+- https://github.com/eastmountyxz/HWCloudImageRecognition
 
 
 
