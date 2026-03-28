@@ -2,7 +2,7 @@
 import cv2
 
 #读取图片
-img = cv2.imread("Lena.png")
+img = cv2.imread("Lenaoriginal.png")
 
 #显示图像
 cv2.imshow("Demo", img)
